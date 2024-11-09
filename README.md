@@ -18,8 +18,8 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=Jen-codee">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=Jen-codee&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=jencodoo">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=jencodoo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
         </a>
       </td>
     </tr>
@@ -27,8 +27,8 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jen-codee">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jen-codee&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jencodoo">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jencodoo&theme=dracula"/>
         </a>
       </td>
     </tr>
@@ -38,6 +38,6 @@
 <h2 align="left">🔥 GitHub Stats 🔥</h2>
 
 <p align="center">
-  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jen-codee&layout=compact&langs_count=10"/></a>&nbsp
-  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=Jen-codee&count_private=true&show_icons=true"/></a>
+  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jencodoo&layout=compact&langs_count=10"/></a>&nbsp
+  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=jencodoo&count_private=true&show_icons=true"/></a>
 </p>
