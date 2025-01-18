@@ -10,7 +10,7 @@
 - 😄 Pronouns: Jen
 - ⚡ Fun fact: I can code in three different languages (Python, JavaScript, and C++) and I’m passionate about contributing to community-driven projects!
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<a >
     <img src="https://komarev.com/ghpvc/?username=jencodoo&style=for-the-badge">
 </a>
 
