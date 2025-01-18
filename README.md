@@ -10,13 +10,7 @@
 - 😄 Pronouns: Jen
 - ⚡ Fun fact: I can code in three different languages (Python, JavaScript, and C++) and I’m passionate about contributing to community-driven projects!
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF">
 
-<div style="margin-left: auto; margin-right: 0; text-align: center; width: fit-content; margin-top: 20px;">
-    <a href="#" style="display: inline-block; margin-top: 20px;">
-        <img src="https://komarev.com/ghpvc/?username=jencodoo&style=for-the-badge" alt="Profile View" style="width: 200px; height: auto;">
-    </a>
-</div>
 
 
 
@@ -28,7 +22,13 @@
     <tr>
       <td>
         <a href="https://github-readme-streak-stats.herokuapp.com/?user=jencodoo">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=jencodoo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+          <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF">
+
+<div style="margin-left: auto; margin-right: 0; text-align: center; width: fit-content; margin-top: 20px;">
+    <a href="#" style="display: inline-block; margin-top: 20px;">
+        <img src="https://komarev.com/ghpvc/?username=jencodoo&style=for-the-badge" alt="Profile View" style="width: 200px; height: auto;">
+    </a>
+</div>
         </a>
       </td>
     </tr>
