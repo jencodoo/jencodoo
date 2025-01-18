@@ -27,8 +27,8 @@
                     <img src="https://komarev.com/ghpvc/?username=jencodoo&style=for-the-badge" alt="Profile View" style="width: 200px; height: auto;">
                 </a>
             </div>
-           <a href="https://github-readme-streak-stats.herokuapp.com/?user=Jen-codee">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=Jen-codee&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+           <a href="https://github-readme-streak-stats.herokuapp.com/?user=jencodooe">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=jencodoo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
         </a>
         </a>
       </td>
