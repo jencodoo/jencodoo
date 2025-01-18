@@ -22,13 +22,11 @@
     <tr>
       <td>
         <a href="https://github-readme-streak-stats.herokuapp.com/?user=jencodoo">
-          <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF">
-
-<div style="margin-left: auto; margin-right: 0; text-align: center; width: fit-content; margin-top: 20px;">
-    <a href="#" style="display: inline-block; margin-top: 20px;">
-        <img src="https://komarev.com/ghpvc/?username=jencodoo&style=for-the-badge" alt="Profile View" style="width: 200px; height: auto;">
-    </a>
-</div>
+            <div style="margin-left: auto; margin-right: 0; text-align: center; width: fit-content; margin-top: 20px;">
+                <a href="#" style="display: inline-block; margin-top: 20px;">
+                    <img src="https://komarev.com/ghpvc/?username=jencodoo&style=for-the-badge" alt="Profile View" style="width: 200px; height: auto;">
+                </a>
+            </div>
         </a>
       </td>
     </tr>
