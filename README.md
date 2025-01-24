@@ -16,12 +16,7 @@
         <li><strong>Ask Me About:</strong> Web Development, Python, and Technology</li>
     </ul>
     <h3>📬 Get in Touch</h3>
-    <ul>
-        <li>Email: <a href="mailto:jencodoo@gmail.com">jencodoo@gmail.com</a></li>
-        <li>LinkedIn: <a href="https://www.linkedin.com/in/jencodoo" target="_blank">Connect with me</a></li>
-    </ul>
 </div>
-
 
 <div align="center"> 
   <a href="mailto:jencodoo@gmail.com">
@@ -31,7 +26,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://jencodoo.github.io/profile_jen/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
