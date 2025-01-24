@@ -5,15 +5,14 @@
 <h3 align="center">I'm a Web Developer and UI/UX designer</h3>
 
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; text-align: center;">
-    <h3>🌟 About Me</h3>
-    <p><strong>Focus Areas:</strong> Web Development & Data Science</p>
-    <p><strong>Currently Learning:</strong> Advanced Algorithms, Machine Learning, Cloud Computing</p>
-    <p><strong>Looking to Collaborate:</strong> Open-source projects in AI & Full-Stack Development</p>
-    <p><strong>Seeking Help With:</strong> Deploying ML models on cloud platforms</p>
-    <p><strong>Ask Me About:</strong> Web Development, Python, and Technology</p>
-    <h3>📬 Get in Touch</h3>
+    <h3 align="center">🌟 About Me</h3>
+    <p align="center"><strong>Focus Areas:</strong> Web Development & Data Science</p>
+    <p align="center" ><strong>Currently Learning:</strong> Advanced Algorithms, Machine Learning, Cloud Computing</p>
+    <p align="center"><strong>Looking to Collaborate:</strong> Open-source projects in AI & Full-Stack Development</p>
+    <p align="center"><strong>Seeking Help With:</strong> Deploying ML models on cloud platforms</p>
+    <p align="center"><strong>Ask Me About:</strong> Web Development, Python, and Technology</p>
+    <h3 align="center">📬 Get in Touch</h3>
 </div>
-
 
 
 <div align="center"> 
