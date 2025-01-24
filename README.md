@@ -5,7 +5,7 @@
 <h3 align="center">I'm a Web Developer and UI/UX designer</h3>
 
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-    <h3>🌟 About Me</h3>
+    <h3 align="center" >🌟 About Me</h3>
     <ul>
         <li><strong>Focus Areas:</strong> Web Development & Data Science</li>
         <li><strong>Currently Learning:</strong> Advanced Algorithms, Machine Learning, Cloud Computing</li>
@@ -79,3 +79,9 @@
   <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jencodoo&layout=compact&langs_count=10"/></a>&nbsp
   <a href=""><img src="https://github-readme-stats.vercel.app/api?username=jencodoo&count_private=true&show_icons=true"/></a>
 </p>
+
+
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
