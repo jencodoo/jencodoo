@@ -33,19 +33,20 @@
 
 <h2 align="left">📈 User Statistics </h2>
 
-<table  align=center >
+<table align="center">
   <tbody>
     <tr>
       <td>
+        <div style="margin-left: auto; margin-right: 0; text-align: center; width: fit-content; margin-top: 20px;">
+          <a href="#" style="display: inline-block; margin-top: 20px;">
+            <img src="https://komarev.com/ghpvc/?username=jencodoo&style=for-the-badge&color=000000" 
+                 alt="Profile View" 
+                 style="width: 200px; height: auto;">
+          </a>
+        </div>
         <a href="https://github-readme-streak-stats.herokuapp.com/?user=jencodoo">
-            <div style="margin-left: auto; margin-right: 0; text-align: center; width: fit-content; margin-top: 20px;">
-                <a href="#" style="display: inline-block; margin-top: 20px;">
-                    <img src="https://komarev.com/ghpvc/?username=jencodoo&style=for-the-badge" alt="Profile View" style="width: 200px; height: auto;">
-                </a>
-            </div>
-           <a href="https://github-readme-streak-stats.herokuapp.com/?user=jencodoo">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=jencodoo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
-        </a>
+          <img width="705" 
+               src="https://github-readme-streak-stats.herokuapp.com/?user=jencodoo&bg_color=000000&title_color=fff&text_color=fff&theme=dark&hide_border=true">
         </a>
       </td>
     </tr>
@@ -54,11 +55,14 @@
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jencodoo">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jencodoo&theme=dracula"/>
+          <img width="715" 
+               src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jencodoo&theme=github_dark"/>
         </a>
       </td>
     </tr>
+  </tbody>
 </table>
+
 
 
 <div align="center">
