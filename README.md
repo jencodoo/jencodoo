@@ -4,6 +4,9 @@
 
 <h3 align="center">I'm a Web Developer and UI/UX designer</h3>
 
+
+<br>
+
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; text-align: center;">
     <h3 align="center">🌟 About Me</h3>
     <p align="center"><strong>Focus Areas:</strong> Web Development & Data Science</p>
