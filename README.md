@@ -6,7 +6,7 @@
 
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
     <h3 align="center" >🌟 About Me</h3>
-    <ul>
+    <ul align="center">
         <li><strong>Focus Areas:</strong> Web Development & Data Science</li>
         <li><strong>Currently Learning:</strong> Advanced Algorithms, Machine Learning, Cloud Computing</li>
         <li><strong>Looking to Collaborate:</strong> Open-source projects in AI & Full-Stack Development</li>
