@@ -20,7 +20,6 @@
         <li>Email: <a href="mailto:jencodoo@gmail.com">jencodoo@gmail.com</a></li>
         <li>LinkedIn: <a href="https://www.linkedin.com/in/jencodoo" target="_blank">Connect with me</a></li>
     </ul>
-    <p>⚡ Fun Fact: I code in Python, JavaScript, and C++, and I love contributing to community-driven projects!</p>
 </div>
 
 
