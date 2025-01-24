@@ -6,14 +6,23 @@
 
 <br/>
 
-- 🔭 I’m currently working on projects related to web development and data science.
-- 🌱 I’m currently learning advanced algorithms, machine learning, and cloud computing.
-- 👯 I’m looking to collaborate on open-source projects, especially those involving AI or full-stack development.
-- 🤔 I’m looking for help with understanding the deployment of machine learning models on cloud platforms.
-- 💬 Ask me about web development, Python programming, or anything related to technology.
-- 📫 How to reach me: You can email me at jencodoo@gmail.com or connect with me on LinkedIn.
-- 😄 Pronouns: Jen
-- ⚡ Fun fact: I can code in three different languages (Python, JavaScript, and C++) and I’m passionate about contributing to community-driven projects!
+<div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+    <h2>🌟 About Me</h2>
+    <ul>
+        <li><strong>Focus Areas:</strong> Web Development & Data Science</li>
+        <li><strong>Currently Learning:</strong> Advanced Algorithms, Machine Learning, Cloud Computing</li>
+        <li><strong>Looking to Collaborate:</strong> Open-source projects in AI & Full-Stack Development</li>
+        <li><strong>Seeking Help With:</strong> Deploying ML models on cloud platforms</li>
+        <li><strong>Ask Me About:</strong> Web Development, Python, and Technology</li>
+    </ul>
+    <h3>📬 Get in Touch</h3>
+    <ul>
+        <li>Email: <a href="mailto:jencodoo@gmail.com">jencodoo@gmail.com</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/jencodoo" target="_blank">Connect with me</a></li>
+    </ul>
+    <p>⚡ Fun Fact: I code in Python, JavaScript, and C++, and I love contributing to community-driven projects!</p>
+</div>
+
 
 <div align="center"> 
   <a href="mailto:jencodoo@gmail.com">
