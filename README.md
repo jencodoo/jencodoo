@@ -5,7 +5,7 @@
 <h3 align="center">I'm a Web Developer and UI/UX designer</h3>
 
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-    <h2>🌟 About Me</h2>
+    <h3>🌟 About Me</h3>
     <ul>
         <li><strong>Focus Areas:</strong> Web Development & Data Science</li>
         <li><strong>Currently Learning:</strong> Advanced Algorithms, Machine Learning, Cloud Computing</li>
@@ -13,7 +13,7 @@
         <li><strong>Seeking Help With:</strong> Deploying ML models on cloud platforms</li>
         <li><strong>Ask Me About:</strong> Web Development, Python, and Technology</li>
     </ul>
-    <h3>📬 Get in Touch</h3>
+    <h3 align="center">📬 Get in Touch</h3>
 </div>
 
 <div align="center"> 
@@ -31,7 +31,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="left">📈 User Statistics </h2>
+<h2 align="center">📈 User Statistics </h2>
 
 <table align="center">
   <tbody>
@@ -73,7 +73,7 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="left">🔥 GitHub Stats 🔥</h2>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
 
 <p align="center">
   <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jencodoo&layout=compact&langs_count=10"/></a>&nbsp
