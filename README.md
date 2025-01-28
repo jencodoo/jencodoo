@@ -2,10 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nguyen+Phong!;" />
 </h1>
 
-<h3 align="center">I'm a Web Developer and UI/UX designer</h3>
-
-
-<br>
 
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; text-align: center;">
     <h3 align="center">🌟 About Me</h3>
